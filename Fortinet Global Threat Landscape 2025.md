@@ -1,6 +1,7 @@
 
-## Fortinet Report
+# Fortinet Report 
 # Analysis of Fortinet Global Threat Landscape Report 2025
+Report Link: https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/threat-landscape-report-2025.pdf
 
 ## 1. Attacker Name/Group Name
 
