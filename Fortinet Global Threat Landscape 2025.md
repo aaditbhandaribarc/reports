@@ -549,7 +549,7 @@ The report emphasizes that defenders must shift from reactive approaches to **Co
 - OAuth/JWT token management
 - API versioning and deprecation policies
 
-## 11. YARA Rules
+## 11. YARA Rules (not in the report)
 
 **Note:** The report does not provide specific YARA rules. However, based on the threats identified, here are recommended YARA rule categories to develop:
 
@@ -703,7 +703,7 @@ rule Ransomware_Generic_Indicators {
 15. AI-generated phishing pages
 16. Deepfake-related files
 
-## 12. Sigma Rules
+## 12. Sigma Rules (not in the report)
 
 **Note:** The report does not provide specific Sigma rules. Based on the TTPs identified, here are recommended Sigma rule examples:
 
@@ -1539,3 +1539,5 @@ This comprehensive analysis of the Fortinet 2025 Global Threat Landscape Report 
 - **Threat Hunting**: YARA and Sigma rules for proactive threat detection
 
 The report emphasizes that **adversaries are accelerating faster than defenders**, requiring organizations to adopt **Continuous Threat Exposure Management (CTEM)** and shift from reactive to proactive security postures.
+
+Other links: https://nvd.nist.gov/general/nvd-dashboard
